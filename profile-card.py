@@ -1,0 +1,6 @@
+print("Your Profile Card Assembler")
+profile_name = input("What is your name?")
+user_city = input("What city are you from?")
+user_age = input("How old are you?")
+employment_status = input("Are you employed?(Employed/Unemployed)")
+profile_card = print(f"profile card\n\nname:{profile_name}\n\ncity:{user_city}\n\nage:{user_age}\n\ncity:{user_city}\n\nemployment status:{employment_status}")
